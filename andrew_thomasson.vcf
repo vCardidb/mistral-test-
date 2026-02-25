@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Thomasson;Andrew
+FN:Andrew Thomasson
+ORG:Levata
+TITLE:Head of Operations
+EMAIL;TYPE=INTERNET:andrew.thomasson@levata.com
+TEL;TYPE=WORK,VOICE:+44 161 416 6710
+ADR;TYPE=WORK:;;Highbank Court, 3 High Bank Side;Stockport;SK1 1HG;UK
+URL:http://www.levata.com
+END:VCARD
